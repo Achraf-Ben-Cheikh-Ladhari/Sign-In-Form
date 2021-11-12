@@ -1,0 +1,41 @@
+body.signin{
+    background-color: #D3D3D3;
+
+}
+.container.signincon{
+    margin-top: 5%;
+}
+.card.signinc{
+    padding: 40px 0px 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow : 2px 2px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    margin-left: 50%;
+}
+.img-fluid.signinimg{
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+form.signinform{
+    max-width: 350px;
+    margin: auto;
+}
+button.btn.btn-danger{
+    background-color: #ff4c00;
+    border-radius: 5px;
+    font-size:20px;
+    border-color: #ff4c00;
+}
+.form-control{
+    box-shadow: 0 0 10px #8B0000;
+}
+.form-control:hover,.form-control:focus{
+    box-shadow:0 0 5px #ff4c00;
+    border-color: #f9dfc5;
+  }
+  p{
+      margin-left: 65%;
+      margin-top: 15px;
+  }
